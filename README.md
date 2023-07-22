@@ -6,9 +6,9 @@ type=waving&color=0f4a3e&height=300&section=header&text=HAMZA%20AOUNI&fontColor=
         alt="hamza-aouni" /> </p>
 
 - ⚡ A passionate full-stack developer from Morocco 🖤
-- ⚡ I’m looking to collaborate with Fullstack Web and Mobile Developement projects 👯
-- ⚡ Contributing to Open Source Projects is always been a goal to me 💡
-- ⚡ Fun fact I love Sports, especially basketball 🙂
+- ⚡ I’m looking to collaborate with Fullstack Web and Mobile Development projects 👯
+- ⚡ Contributing to Open Source Projects is always been a goal for me 💡
+- ⚡ Fun fact I love Sports, especially basketball ♡
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=hamza-aouni&label=Profile%20views&color=658354&style=for-the-badge"
@@ -177,8 +177,6 @@ type=waving&color=0f4a3e&height=300&section=header&text=HAMZA%20AOUNI&fontColor=
   <br/>
 </a>
 
-
-![hamzaaouni's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hamzaaouni&custom_title=hamzaaouni's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
