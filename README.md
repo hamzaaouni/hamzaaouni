@@ -9,6 +9,7 @@ type=waving&color=0f4a3e&height=300&section=header&text=HAMZA%20AOUNI&fontColor=
 - ⚡ I’m looking to collaborate with Fullstack Web and Mobile Development projects 👯
 - ⚡ Contributing to Open Source Projects is always been a goal for me 💡
 - ⚡ Fun fact I love Sports, especially basketball ♡
+- ⚡ The first computer "bug" was a literal moth.
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=hamza-aouni&label=Profile%20views&color=658354&style=for-the-badge"
